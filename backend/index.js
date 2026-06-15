@@ -18,9 +18,8 @@ app.use(cookieParser())
 
 // routes
 app.get("/",(req,res)=>{
-    res.send("hello from backend")
-})
-
+    res.send("hello from backend")}
+)
 // db 
 
 
